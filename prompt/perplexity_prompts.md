@@ -63,5 +63,5 @@ Agrupe os dados por país . Inclua o desconto das vendas também em reais e calc
 nota: o código markedwn também foi gerado por ia com o prompt abaixo
 
 ```
-gere o código Markdon da tabela acima
+gere o código Markdown da tabela acima
 ```
